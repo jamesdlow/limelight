@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/jopt-simple.jar"/>
+	<classpathentry kind="lib" path="lib/PDFRenderer.jar"/>
+	<classpathentry kind="lib" path="lib/forms.jar"/>
+	<classpathentry kind="lib" path="lib/mac_widgets.jar"/>
+	<classpathentry kind="lib" path="lib/quaqua-colorchooser-only.jar"/>
+	<classpathentry kind="lib" path="lib/poi/poi-contrib.jar"/>
+	<classpathentry kind="lib" path="lib/poi/poi-ooxml-schemas.jar"/>
+	<classpathentry kind="lib" path="lib/poi/poi-ooxml.jar"/>
+	<classpathentry kind="lib" path="lib/poi/poi-scratchpad.jar"/>
+	<classpathentry kind="lib" path="lib/poi/poi.jar"/>
+	<classpathentry kind="lib" path="lib/airplay.jar"/>
+	<classpathentry kind="output" path="build/bin"/>
+</classpath>
