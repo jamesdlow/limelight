@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:limegreen="http://code.google.com/p/limegreen">
+<id>http://jameslow.com/work/limelight/</id>
+<title>Limelight AutoUpdate</title>
+<link href="http://jameslow.com/content/software/limelight/Limelight.xml" rel="self"/>
+<link href="http://jameslow.com/work/limelight/"/>
+<author>
+<name>Limegreen AutoUpdate Generator</name>
+</author>
+<updated>2011-11-24T19:13:48+08:00</updated>
+<entry>
+<id>http://jameslow.com/work/limelight/?limegreenbuild=763</id>
+<title>Limelight 0.34 (build 763)</title>
+<limegreen:build>763</limegreen:build>
+<limegreen:version>0.34</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2009-02-16T17:50:02+08:00</updated>
+<link href="http://jameslow.com/work/limelight/?limegreenbuild=763"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-win-0.34.zip" length="343942" rel="enclosure" title="Limelight Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-mac-0.34.zip" length="170907" rel="enclosure" title="Limelight Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-other-0.34.zip" length="145764" rel="enclosure" title="Limelight Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-0.34.dmg" length="187396" rel="enclosure" title="Limelight Mac Disk Image" type="application/octet-stream"/>
+<content>First version with autoupdate
+&lt;br&gt;New way to arrange windows</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/limelight/?limegreenbuild=842</id>
+<title>Limelight 0.35 (build 842)</title>
+<limegreen:build>842</limegreen:build>
+<limegreen:version>0.35</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2009-02-27T11:12:10+08:00</updated>
+<link href="http://jameslow.com/work/limelight/?limegreenbuild=842"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-win-0.35.zip" length="1835739" rel="enclosure" title="Limelight Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-mac-0.35.zip" length="1662797" rel="enclosure" title="Limelight Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-other-0.35.zip" length="1637654" rel="enclosure" title="Limelight Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-0.35.dmg" length="1682330" rel="enclosure" title="Limelight Mac Disk Image" type="application/octet-stream"/>
+<content>Correctly reveals a file in finder on OS X</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/limelight/?limegreenbuild=845</id>
+<title>Limelight 0.36 (build 845)</title>
+<limegreen:build>845</limegreen:build>
+<limegreen:version>0.36</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2009-02-27T16:6:03+08:00</updated>
+<link href="http://jameslow.com/work/limelight/?limegreenbuild=845"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-win-0.36.zip" length="1835752" rel="enclosure" title="Limelight Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-mac-0.36.zip" length="1662806" rel="enclosure" title="Limelight Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-other-0.36.zip" length="1637663" rel="enclosure" title="Limelight Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-0.36.dmg" length="1682319" rel="enclosure" title="Limelight Mac Disk Image" type="application/octet-stream"/>
+<content>Bug fix to restore fullscreen toggle when double clicking display</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/limelight/?limegreenbuild=848</id>
+<title>Limelight 0.37 (build 848)</title>
+<limegreen:build>848</limegreen:build>
+<limegreen:version>0.37</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2009-03-04T08:35:06+08:00</updated>
+<link href="http://jameslow.com/work/limelight/?limegreenbuild=848"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-win-0.37.zip" length="336131" rel="enclosure" title="Limelight Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-mac-0.37.zip" length="163044" rel="enclosure" title="Limelight Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-other-0.37.zip" length="137901" rel="enclosure" title="Limelight Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-0.37.dmg" length="179750" rel="enclosure" title="Limelight Mac Disk Image" type="application/octet-stream"/>
+<content>Bug fix that stopped it working on platforms other than OSX
+&lt;br&gt;Bug fix to allow autoupdate to work on windows
+&lt;br&gt;Bug fix to allow autoupdate to work with directories with spaces </content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/limelight/?limegreenbuild=850</id>
+<title>Limelight 0.38 (build 850)</title>
+<limegreen:build>850</limegreen:build>
+<limegreen:version>0.38</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2009-03-06T00:5:06+08:00</updated>
+<link href="http://jameslow.com/work/limelight/?limegreenbuild=850"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-win-0.38.zip" length="335926" rel="enclosure" title="Limelight Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-mac-0.38.zip" length="162851" rel="enclosure" title="Limelight Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-other-0.38.zip" length="137708" rel="enclosure" title="Limelight Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-0.38.dmg" length="179534" rel="enclosure" title="Limelight Mac Disk Image" type="application/octet-stream"/>
+<content>Bug fix that stopped files/links opening on OSX </content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/limelight/?limegreenbuild=950</id>
+<title>Limelight 0.39 (build 950)</title>
+<limegreen:build>950</limegreen:build>
+<limegreen:version>0.39</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2009-08-27T18:17:51+08:00</updated>
+<link href="http://jameslow.com/work/limelight/?limegreenbuild=950"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-win-0.39.zip" length="1956300" rel="enclosure" title="Limelight Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-mac-0.39.zip" length="1700490" rel="enclosure" title="Limelight Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-other-0.39.zip" length="1675276" rel="enclosure" title="Limelight Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-0.39.dmg" length="1719554" rel="enclosure" title="Limelight Mac Disk Image" type="application/octet-stream"/>
+<content>Can now export slides as images to Documents folder (warning this will overwrite files of the same name)
+&lt;br&gt;Beginings of PDF support (Very experimental)</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/limelight/?limegreenbuild=954</id>
+<title>Limelight 0.40 (build 954)</title>
+<limegreen:build>954</limegreen:build>
+<limegreen:version>0.40</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2009-08-31T16:16:25+08:00</updated>
+<link href="http://jameslow.com/work/limelight/?limegreenbuild=954"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-win-0.40.zip" length="1956206" rel="enclosure" title="Limelight Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-mac-0.40.zip" length="1700393" rel="enclosure" title="Limelight Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-other-0.40.zip" length="1675179" rel="enclosure" title="Limelight Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-0.40.dmg" length="1719474" rel="enclosure" title="Limelight Mac Disk Image" type="application/octet-stream"/>
+<content>Can now choose the folder to export slides to
+&lt;br&gt;Also fixed the bug for when exporting and nothing on the screen</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/limelight/?limegreenbuild=963</id>
+<title>Limelight 0.41 (build 963)</title>
+<limegreen:build>963</limegreen:build>
+<limegreen:version>0.41</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2009-09-04T08:23:01+08:00</updated>
+<link href="http://jameslow.com/work/limelight/?limegreenbuild=963"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-win-0.41.zip" length="1942253" rel="enclosure" title="Limelight Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-mac-0.41.zip" length="1686371" rel="enclosure" title="Limelight Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-other-0.41.zip" length="1661158" rel="enclosure" title="Limelight Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-0.41.dmg" length="1705116" rel="enclosure" title="Limelight Mac Disk Image" type="application/octet-stream"/>
+<content>Bug fix that was stopping exporting of a single file to work
+&lt;br&gt;Bug fix that was stopping right click menu on songs directory from working</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/limelight/?limegreenbuild=1077</id>
+<title>Limelight 0.42 (build 1077)</title>
+<limegreen:build>1077</limegreen:build>
+<limegreen:version>0.42</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2009-09-06T01:2:33+08:00</updated>
+<link href="http://jameslow.com/work/limelight/?limegreenbuild=1077"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-win-0.42.zip" length="1999200" rel="enclosure" title="Limelight Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-mac-0.42.zip" length="1739626" rel="enclosure" title="Limelight Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-other-0.42.zip" length="1718327" rel="enclosure" title="Limelight Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-0.42.dmg" length="1758501" rel="enclosure" title="Limelight Mac Disk Image" type="application/octet-stream"/>
+<content>Basic image handling added
+&lt;br&gt;PDF support improved, but still experimental</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/limelight/?limegreenbuild=1127</id>
+<title>Limelight 0.43 (build 1127)</title>
+<limegreen:build>1127</limegreen:build>
+<limegreen:version>0.43</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2009-09-06T17:44:56+08:00</updated>
+<link href="http://jameslow.com/work/limelight/?limegreenbuild=1127"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-win-0.43.zip" length="2001879" rel="enclosure" title="Limelight Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-mac-0.43.zip" length="1741999" rel="enclosure" title="Limelight Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-other-0.43.zip" length="1720700" rel="enclosure" title="Limelight Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-0.43.dmg" length="1760761" rel="enclosure" title="Limelight Mac Disk Image" type="application/octet-stream"/>
+<content>Fix opening and saving of playlist
+&lt;br&gt;Improvements to song filtering</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/limelight/?limegreenbuild=1140</id>
+<title>Limelight 0.44 (build 1140)</title>
+<limegreen:build>1140</limegreen:build>
+<limegreen:version>0.44</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2009-09-07T11:45:50+08:00</updated>
+<link href="http://jameslow.com/work/limelight/?limegreenbuild=1140"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-win-0.44.zip" length="2002540" rel="enclosure" title="Limelight Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-mac-0.44.zip" length="1742635" rel="enclosure" title="Limelight Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-other-0.44.zip" length="1721336" rel="enclosure" title="Limelight Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-0.44.dmg" length="1761478" rel="enclosure" title="Limelight Mac Disk Image" type="application/octet-stream"/>
+<content>Images now maintain aspect ratio when displayed</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/limelight/?limegreenbuild=1144</id>
+<title>Limelight 0.45 (build 1144)</title>
+<limegreen:build>1144</limegreen:build>
+<limegreen:version>0.45</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2009-09-07T15:15:07+08:00</updated>
+<link href="http://jameslow.com/work/limelight/?limegreenbuild=1144"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-win-0.45.zip" length="2002723" rel="enclosure" title="Limelight Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-mac-0.45.zip" length="1742823" rel="enclosure" title="Limelight Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-other-0.45.zip" length="1721525" rel="enclosure" title="Limelight Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-0.45.dmg" length="1761637" rel="enclosure" title="Limelight Mac Disk Image" type="application/octet-stream"/>
+<content>Advanced naming when exporting slides</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/limelight/?limegreenbuild=1148</id>
+<title>Limelight 0.46 (build 1148)</title>
+<limegreen:build>1148</limegreen:build>
+<limegreen:version>0.46</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2009-09-08T17:53:46+08:00</updated>
+<link href="http://jameslow.com/work/limelight/?limegreenbuild=1148"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-win-0.46.zip" length="2003297" rel="enclosure" title="Limelight Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-mac-0.46.zip" length="1743387" rel="enclosure" title="Limelight Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-other-0.46.zip" length="1722088" rel="enclosure" title="Limelight Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-0.46.dmg" length="1762289" rel="enclosure" title="Limelight Mac Disk Image" type="application/octet-stream"/>
+<content>Now blanks the screen correctly for images</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/limelight/?limegreenbuild=1227</id>
+<title>Limelight 0.47 (build 1227)</title>
+<limegreen:build>1227</limegreen:build>
+<limegreen:version>0.47</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2009-09-10T01:22:00+08:00</updated>
+<link href="http://jameslow.com/work/limelight/?limegreenbuild=1227"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-win-0.47.zip" length="4051488" rel="enclosure" title="Limelight Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-mac-0.47.zip" length="3791663" rel="enclosure" title="Limelight Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-other-0.47.zip" length="3770363" rel="enclosure" title="Limelight Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-0.47.dmg" length="3810399" rel="enclosure" title="Limelight Mac Disk Image" type="application/octet-stream"/>
+<content>Powerpoint Integration (No 2007 or Embeded Videos)
+&lt;br&gt;Slide backgrounds maintain aspect ratio</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/limelight/?limegreenbuild=1257</id>
+<title>Limelight 0.48 (build 1257)</title>
+<limegreen:build>1257</limegreen:build>
+<limegreen:version>0.48</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2009-09-10T14:32:09+08:00</updated>
+<link href="http://jameslow.com/work/limelight/?limegreenbuild=1257"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-win-0.48.zip" length="4068908" rel="enclosure" title="Limelight Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-mac-0.48.zip" length="3809003" rel="enclosure" title="Limelight Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-other-0.48.zip" length="3787703" rel="enclosure" title="Limelight Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-0.48.dmg" length="3827654" rel="enclosure" title="Limelight Mac Disk Image" type="application/octet-stream"/>
+<content>Better handling of missing folders
+&lt;br&gt;Correctly resizes split pane</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/limelight/?limegreenbuild=1268</id>
+<title>Limelight 0.49 (build 1268)</title>
+<limegreen:build>1268</limegreen:build>
+<limegreen:version>0.49</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2009-09-11T00:53:06+08:00</updated>
+<link href="http://jameslow.com/work/limelight/?limegreenbuild=1268"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-win-0.49.zip" length="4071587" rel="enclosure" title="Limelight Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-mac-0.49.zip" length="3811783" rel="enclosure" title="Limelight Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-other-0.49.zip" length="3790483" rel="enclosure" title="Limelight Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-0.49.dmg" length="3829875" rel="enclosure" title="Limelight Mac Disk Image" type="application/octet-stream"/>
+<content>Bugfix for when the extension is capitalised</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/limelight/?limegreenbuild=1269</id>
+<title>Limelight 0.50 (build 1269)</title>
+<limegreen:build>1269</limegreen:build>
+<limegreen:version>0.50</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2009-09-11T15:10:38+08:00</updated>
+<link href="http://jameslow.com/work/limelight/?limegreenbuild=1269"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-win-0.50.zip" length="4070968" rel="enclosure" title="Limelight Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-mac-0.50.zip" length="3811108" rel="enclosure" title="Limelight Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-other-0.50.zip" length="3789808" rel="enclosure" title="Limelight Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-0.50.dmg" length="3829665" rel="enclosure" title="Limelight Mac Disk Image" type="application/octet-stream"/>
+<content>Remove some testing code that made it into 0.49</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/limelight/?limegreenbuild=1307</id>
+<title>Limelight 0.51 (build 1307)</title>
+<limegreen:build>1307</limegreen:build>
+<limegreen:version>0.51</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2009-09-12T08:56:45+08:00</updated>
+<link href="http://jameslow.com/work/limelight/?limegreenbuild=1307"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-win-0.51.zip" length="4404700" rel="enclosure" title="Limelight Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-mac-0.51.zip" length="4144941" rel="enclosure" title="Limelight Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-other-0.51.zip" length="4123642" rel="enclosure" title="Limelight Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-0.51.dmg" length="4163358" rel="enclosure" title="Limelight Mac Disk Image" type="application/octet-stream"/>
+<content>Can now drag multiple files (add/rearrange/remove)
+&lt;br&gt;Experimental support for pptx 2007, will update lbrary when Apache POI updates</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/limelight/?limegreenbuild=1341</id>
+<title>Limelight 0.52 (build 1341)</title>
+<limegreen:build>1341</limegreen:build>
+<limegreen:version>0.52</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2009-09-12T13:13:27+08:00</updated>
+<link href="http://jameslow.com/work/limelight/?limegreenbuild=1341"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-win-0.52.zip" length="4407896" rel="enclosure" title="Limelight Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-mac-0.52.zip" length="4148213" rel="enclosure" title="Limelight Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-other-0.52.zip" length="4126914" rel="enclosure" title="Limelight Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-0.52.dmg" length="4166330" rel="enclosure" title="Limelight Mac Disk Image" type="application/octet-stream"/>
+<content>Added a search feature that searches filename and text content across all files in all folders in the left pane</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/limelight/?limegreenbuild=1346</id>
+<title>Limelight 0.53 (build 1346)</title>
+<limegreen:build>1346</limegreen:build>
+<limegreen:version>0.53</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2009-09-12T23:1:36+08:00</updated>
+<link href="http://jameslow.com/work/limelight/?limegreenbuild=1346"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-win-0.53.zip" length="4407938" rel="enclosure" title="Limelight Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-mac-0.53.zip" length="4148241" rel="enclosure" title="Limelight Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-other-0.53.zip" length="4126941" rel="enclosure" title="Limelight Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-0.53.dmg" length="4166812" rel="enclosure" title="Limelight Mac Disk Image" type="application/octet-stream"/>
+<content>Bug fixes introduces in 0.52
+&lt;br&gt;Fix Large view
+&lt;br&gt;Fix hiding of clear cross on search/filter</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/limelight/?limegreenbuild=1443</id>
+<title>Limelight 0.54 (build 1443)</title>
+<limegreen:build>1443</limegreen:build>
+<limegreen:version>0.54</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2009-09-15T16:16:02+08:00</updated>
+<link href="http://jameslow.com/work/limelight/?limegreenbuild=1443"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-win-0.54.zip" length="4416634" rel="enclosure" title="Limelight Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-mac-0.54.zip" length="4156942" rel="enclosure" title="Limelight Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-other-0.54.zip" length="4135642" rel="enclosure" title="Limelight Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-0.54.dmg" length="4175445" rel="enclosure" title="Limelight Mac Disk Image" type="application/octet-stream"/>
+<content>Added apple remote functionality - thanks for the idea Anna</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/limelight/?limegreenbuild=1458</id>
+<title>Limelight 0.55 (build 1458)</title>
+<limegreen:build>1458</limegreen:build>
+<limegreen:version>0.55</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2009-09-15T16:47:34+08:00</updated>
+<link href="http://jameslow.com/work/limelight/?limegreenbuild=1458"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-win-0.55.zip" length="4416684" rel="enclosure" title="Limelight Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-mac-0.55.zip" length="4156996" rel="enclosure" title="Limelight Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-other-0.55.zip" length="4135697" rel="enclosure" title="Limelight Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-0.55.dmg" length="4175496" rel="enclosure" title="Limelight Mac Disk Image" type="application/octet-stream"/>
+<content>Improvements to Apple Remote functionality</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/limelight/?limegreenbuild=1464</id>
+<title>Limelight 0.56 (build 1464)</title>
+<limegreen:build>1464</limegreen:build>
+<limegreen:version>0.56</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2009-09-26T11:11:46+08:00</updated>
+<link href="http://jameslow.com/work/limelight/?limegreenbuild=1464"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-win-0.56.zip" length="4402772" rel="enclosure" title="Limelight Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-mac-0.56.zip" length="4142873" rel="enclosure" title="Limelight Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-other-0.56.zip" length="4121714" rel="enclosure" title="Limelight Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-0.56.dmg" length="4161065" rel="enclosure" title="Limelight Mac Disk Image" type="application/octet-stream"/>
+<content>Correct aspect ratio of compact/large windows on Mac OSX</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/limelight/?limegreenbuild=1476</id>
+<title>Limelight 0.57 (build 1476)</title>
+<limegreen:build>1476</limegreen:build>
+<limegreen:version>0.57</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2009-09-27T00:11:03+08:00</updated>
+<link href="http://jameslow.com/work/limelight/?limegreenbuild=1476"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-win-0.57.zip" length="4402970" rel="enclosure" title="Limelight Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-mac-0.57.zip" length="4143089" rel="enclosure" title="Limelight Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-other-0.57.zip" length="4121930" rel="enclosure" title="Limelight Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-0.57.dmg" length="4161267" rel="enclosure" title="Limelight Mac Disk Image" type="application/octet-stream"/>
+<content>Added export selected command
+&lt;br&gt;Added check for if the user clicks cancel when exporting slides</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/limelight/?limegreenbuild=1499</id>
+<title>Limelight 0.58 (build 1499)</title>
+<limegreen:build>1499</limegreen:build>
+<limegreen:version>0.58</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2009-09-28T15:36:17+08:00</updated>
+<link href="http://jameslow.com/work/limelight/?limegreenbuild=1499"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-win-0.58.zip" length="4417457" rel="enclosure" title="Limelight Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-mac-0.58.zip" length="4157598" rel="enclosure" title="Limelight Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-other-0.58.zip" length="4136439" rel="enclosure" title="Limelight Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-0.58.dmg" length="4297384" rel="enclosure" title="Limelight Mac Disk Image" type="application/octet-stream"/>
+<content>Fixed keyboard shortcuts</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/limelight/?limegreenbuild=1522</id>
+<title>Limelight 0.59 (build 1522)</title>
+<limegreen:build>1522</limegreen:build>
+<limegreen:version>0.59</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2009-10-04T22:23:30+08:00</updated>
+<link href="http://jameslow.com/work/limelight/?limegreenbuild=1522"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-win-0.59.zip" length="4419442" rel="enclosure" title="Limelight Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-mac-0.59.zip" length="4159556" rel="enclosure" title="Limelight Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-other-0.59.zip" length="4138397" rel="enclosure" title="Limelight Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-0.59.dmg" length="4177729" rel="enclosure" title="Limelight Mac Disk Image" type="application/octet-stream"/>
+<content>Saves last position of window</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/limelight/?limegreenbuild=1575</id>
+<title>Limelight 0.60 (build 1575)</title>
+<limegreen:build>1575</limegreen:build>
+<limegreen:version>0.60</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2009-10-25T00:0:18+08:00</updated>
+<link href="http://jameslow.com/work/limelight/?limegreenbuild=1575"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-win-0.60.zip" length="5249413" rel="enclosure" title="Limelight Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-mac-0.60.zip" length="4989428" rel="enclosure" title="Limelight Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-other-0.60.zip" length="4968269" rel="enclosure" title="Limelight Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-0.60.dmg" length="5007904" rel="enclosure" title="Limelight Mac Disk Image" type="application/octet-stream"/>
+<content>Native toolbar and buttons on mac!</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/limelight/?limegreenbuild=1577</id>
+<title>Limelight 0.61 (build 1577)</title>
+<limegreen:build>1577</limegreen:build>
+<limegreen:version>0.61</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2009-12-03T16:56:49+08:00</updated>
+<link href="http://jameslow.com/work/limelight/?limegreenbuild=1577"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-win-0.61.zip" length="5627698" rel="enclosure" title="Limelight Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-mac-0.61.zip" length="5367649" rel="enclosure" title="Limelight Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-other-0.61.zip" length="5346491" rel="enclosure" title="Limelight Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-0.61.dmg" length="5519899" rel="enclosure" title="Limelight Mac Disk Image" type="application/octet-stream"/>
+<content>Fix quit on windows</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/limelight/?limegreenbuild=1580</id>
+<title>Limelight 0.62 (build 1580)</title>
+<limegreen:build>1580</limegreen:build>
+<limegreen:version>0.62</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2009-12-03T17:23:41+08:00</updated>
+<link href="http://jameslow.com/work/limelight/?limegreenbuild=1580"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-win-0.62.zip" length="5644541" rel="enclosure" title="Limelight Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-mac-0.62.zip" length="5384502" rel="enclosure" title="Limelight Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-other-0.62.zip" length="5363344" rel="enclosure" title="Limelight Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-0.62.dmg" length="5403184" rel="enclosure" title="Limelight Mac Disk Image" type="application/octet-stream"/>
+<content>Blank button now works before anything has been displayed</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/limelight/?limegreenbuild=1590</id>
+<title>Limelight 0.63 (build 1590)</title>
+<limegreen:build>1590</limegreen:build>
+<limegreen:version>0.63</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2009-12-03T23:59:10+08:00</updated>
+<link href="http://jameslow.com/work/limelight/?limegreenbuild=1590"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-win-0.63.zip" length="5645677" rel="enclosure" title="Limelight Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-mac-0.63.zip" length="5385685" rel="enclosure" title="Limelight Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-other-0.63.zip" length="5364526" rel="enclosure" title="Limelight Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-0.63.dmg" length="5404346" rel="enclosure" title="Limelight Mac Disk Image" type="application/octet-stream"/>
+<content>Generic open for playlist and handled files</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/limelight/?limegreenbuild=1633</id>
+<title>Limelight 0.64 (build 1633)</title>
+<limegreen:build>1633</limegreen:build>
+<limegreen:version>0.64</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2009-12-08T10:22:07+08:00</updated>
+<link href="http://jameslow.com/work/limelight/?limegreenbuild=1633"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-win-0.64.zip" length="5648645" rel="enclosure" title="Limelight Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-mac-0.64.zip" length="5388767" rel="enclosure" title="Limelight Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-other-0.64.zip" length="5367609" rel="enclosure" title="Limelight Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-0.64.dmg" length="5541260" rel="enclosure" title="Limelight Mac Disk Image" type="application/octet-stream"/>
+<content>Fixed exporting of slides as images when changing from one file type to another.</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/limelight/?limegreenbuild=1635</id>
+<title>Limelight 0.65 (build 1635)</title>
+<limegreen:build>1635</limegreen:build>
+<limegreen:version>0.65</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2009-12-08T10:35:26+08:00</updated>
+<link href="http://jameslow.com/work/limelight/?limegreenbuild=1635"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-win-0.65.zip" length="5792513" rel="enclosure" title="Limelight Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-mac-0.65.zip" length="5532474" rel="enclosure" title="Limelight Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-other-0.65.zip" length="5511316" rel="enclosure" title="Limelight Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-0.65.dmg" length="5551137" rel="enclosure" title="Limelight Mac Disk Image" type="application/octet-stream"/>
+<content>Updated to POI 3.5 for better powerpoint support</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/limelight/?limegreenbuild=1666</id>
+<title>Limelight 0.66 (build 1666)</title>
+<limegreen:build>1666</limegreen:build>
+<limegreen:version>0.66</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2009-12-15T09:4:47+08:00</updated>
+<link href="http://jameslow.com/work/limelight/?limegreenbuild=1666"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-win-0.66.zip" length="5792620" rel="enclosure" title="Limelight Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-mac-0.66.zip" length="5532568" rel="enclosure" title="Limelight Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-other-0.66.zip" length="5511411" rel="enclosure" title="Limelight Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-0.66.dmg" length="5684851" rel="enclosure" title="Limelight Mac Disk Image" type="application/octet-stream"/>
+<content>Fix for quiting on OSX
+Remote code seems not to be working anymore</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/limelight/?limegreenbuild=1670</id>
+<title>Limelight 0.67 (build 1670)</title>
+<limegreen:build>1670</limegreen:build>
+<limegreen:version>0.67</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2009-12-15T09:25:28+08:00</updated>
+<link href="http://jameslow.com/work/limelight/?limegreenbuild=1670"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-win-0.67.zip" length="5792597" rel="enclosure" title="Limelight Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-mac-0.67.zip" length="5532552" rel="enclosure" title="Limelight Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-other-0.67.zip" length="5511394" rel="enclosure" title="Limelight Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-0.67.dmg" length="5551258" rel="enclosure" title="Limelight Mac Disk Image" type="application/octet-stream"/>
+<content>Made loading time faster</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/limelight/?limegreenbuild=1672</id>
+<title>Limelight 0.68 (build 1672)</title>
+<limegreen:build>1672</limegreen:build>
+<limegreen:version>0.68</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2010-01-11T23:41:31+08:00</updated>
+<link href="http://jameslow.com/work/limelight/?limegreenbuild=1672"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-win-0.68.zip" length="5776076" rel="enclosure" title="Limelight Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-mac-0.68.zip" length="5516034" rel="enclosure" title="Limelight Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-other-0.68.zip" length="5494876" rel="enclosure" title="Limelight Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-0.68.dmg" length="5668456" rel="enclosure" title="Limelight Mac Disk Image" type="application/octet-stream"/>
+<content>Fix for options on windows</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/limelight/?limegreenbuild=1693</id>
+<title>Limelight 0.69 (build 1693)</title>
+<limegreen:build>1693</limegreen:build>
+<limegreen:version>0.69</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2010-01-30T09:28:07+08:00</updated>
+<link href="http://jameslow.com/work/limelight/?limegreenbuild=1693"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-win-0.69.zip" length="5797390" rel="enclosure" title="Limelight Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-mac-0.69.zip" length="5537465" rel="enclosure" title="Limelight Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-other-0.69.zip" length="5516307" rel="enclosure" title="Limelight Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-0.69.dmg" length="5689792" rel="enclosure" title="Limelight Mac Disk Image" type="application/octet-stream"/>
+<content>New export options:
+Export as PowerPoint
+Export to iPhoto (Mac Only)</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/limelight/?limegreenbuild=1699</id>
+<title>Limelight 0.70 (build 1699)</title>
+<limegreen:build>1699</limegreen:build>
+<limegreen:version>0.70</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2010-02-23T00:38:22+08:00</updated>
+<link href="http://jameslow.com/work/limelight/?limegreenbuild=1699"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-win-0.70.zip" length="8805194" rel="enclosure" title="Limelight Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-mac-0.70.zip" length="8545387" rel="enclosure" title="Limelight Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-other-0.70.zip" length="8524229" rel="enclosure" title="Limelight Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-0.70.dmg" length="8563959" rel="enclosure" title="Limelight Mac Disk Image" type="application/octet-stream"/>
+<content>Fix double click fullscreen toggle</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/limelight/?limegreenbuild=1770</id>
+<title>Limelight 0.71 (build 1770)</title>
+<limegreen:build>1770</limegreen:build>
+<limegreen:version>0.71</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2010-04-18T23:18:35+08:00</updated>
+<link href="http://jameslow.com/work/limelight/?limegreenbuild=1770"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-win-0.71.zip" length="8789804" rel="enclosure" title="Limelight Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-mac-0.71.zip" length="8530033" rel="enclosure" title="Limelight Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-other-0.71.zip" length="8508876" rel="enclosure" title="Limelight Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-source-0.71.zip" length="11072048" rel="enclosure" title="Limelight Source Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-0.71.dmg" length="8548723" rel="enclosure" title="Limelight Mac Disk Image" type="application/octet-stream"/>
+<content>Open Source :-)
+Fix fullscreen toggle bug
+Fix error during auto update
+Supports dragging of files to other programs/desktop
+Introduce bug when dragging multiple files (to fix)</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/limelight/?limegreenbuild=1776</id>
+<title>Limelight 0.72 (build 1776)</title>
+<limegreen:build>1776</limegreen:build>
+<limegreen:version>0.72</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2010-04-18T23:55:43+08:00</updated>
+<link href="http://jameslow.com/work/limelight/?limegreenbuild=1776"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-win-0.72.zip" length="8789763" rel="enclosure" title="Limelight Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-mac-0.72.zip" length="8529994" rel="enclosure" title="Limelight Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-other-0.72.zip" length="8508837" rel="enclosure" title="Limelight Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-source-0.72.zip" length="11072871" rel="enclosure" title="Limelight Source Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-0.72.dmg" length="8711037" rel="enclosure" title="Limelight Mac Disk Image" type="application/octet-stream"/>
+<content>Fix for starting bug introduced in 0.71</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/limelight/?limegreenbuild=1824</id>
+<title>Limelight 0.73 (build 1824)</title>
+<limegreen:build>1824</limegreen:build>
+<limegreen:version>0.73</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2010-08-09T01:11:28+08:00</updated>
+<link href="http://jameslow.com/work/limelight/?limegreenbuild=1824"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-win-0.73.zip" length="9990259" rel="enclosure" title="Limelight Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-mac-0.73.zip" length="9730895" rel="enclosure" title="Limelight Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-other-0.73.zip" length="9709169" rel="enclosure" title="Limelight Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-source-0.73.zip" length="12677118" rel="enclosure" title="Limelight Source Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-0.73.dmg" length="9752174" rel="enclosure" title="Limelight Mac Disk Image" type="application/octet-stream"/>
+<content>Fix for fullscreen keys on certain JVMs</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/limelight/?limegreenbuild=1828</id>
+<title>Limelight 0.74 (build 1828)</title>
+<limegreen:build>1828</limegreen:build>
+<limegreen:version>0.74</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2010-08-09T01:23:24+08:00</updated>
+<link href="http://jameslow.com/work/limelight/?limegreenbuild=1828"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-win-0.74.zip" length="9990351" rel="enclosure" title="Limelight Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-mac-0.74.zip" length="9730973" rel="enclosure" title="Limelight Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-other-0.74.zip" length="9709246" rel="enclosure" title="Limelight Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-source-0.74.zip" length="12677318" rel="enclosure" title="Limelight Source Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-0.74.dmg" length="9752249" rel="enclosure" title="Limelight Mac Disk Image" type="application/octet-stream"/>
+<content>Even more improved fullscreen behaviour</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/limelight/?limegreenbuild=1851</id>
+<title>Limelight 0.75 (build 1851)</title>
+<limegreen:build>1851</limegreen:build>
+<limegreen:version>0.75</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2010-08-09T22:8:50+08:00</updated>
+<link href="http://jameslow.com/work/limelight/?limegreenbuild=1851"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-win-0.75.zip" length="10010270" rel="enclosure" title="Limelight Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-mac-0.75.zip" length="9750892" rel="enclosure" title="Limelight Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-other-0.75.zip" length="9729165" rel="enclosure" title="Limelight Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-source-0.75.zip" length="12677657" rel="enclosure" title="Limelight Source Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-0.75.dmg" length="9772072" rel="enclosure" title="Limelight Mac Disk Image" type="application/octet-stream"/>
+<content>Now shows a black screen on startup on windows
+Improve window positioning</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/limelight/?limegreenbuild=1856</id>
+<title>Limelight 0.76 (build 1856)</title>
+<limegreen:build>1856</limegreen:build>
+<limegreen:version>0.76</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2010-10-02T09:44:27+08:00</updated>
+<link href="http://jameslow.com/work/limelight/?limegreenbuild=1856"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-win-0.76.zip" length="10012915" rel="enclosure" title="Limelight Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-mac-0.76.zip" length="9753565" rel="enclosure" title="Limelight Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-other-0.76.zip" length="9731839" rel="enclosure" title="Limelight Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-source-0.76.zip" length="12678117" rel="enclosure" title="Limelight Source Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-0.76.dmg" length="9774624" rel="enclosure" title="Limelight Mac Disk Image" type="application/octet-stream"/>
+<content>Fix for open/save dialog</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/limelight/?limegreenbuild=1871</id>
+<title>Limelight 0.77 (build 1871)</title>
+<limegreen:build>1871</limegreen:build>
+<limegreen:version>0.77</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2011-11-24T19:13:48+08:00</updated>
+<link href="http://jameslow.com/work/limelight/?limegreenbuild=1871"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-win-0.77.zip" length="10451066" rel="enclosure" title="Limelight Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-mac-0.77.zip" length="10195577" rel="enclosure" title="Limelight Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-other-0.77.zip" length="10169870" rel="enclosure" title="Limelight Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-source-0.77.zip" length="13882233" rel="enclosure" title="Limelight Source Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/limelight/Limelight-0.77.dmg" length="10217200" rel="enclosure" title="Limelight Mac Disk Image" type="application/octet-stream"/>
+<content>Supports display over AirPlay to AppleTV</content>
+</entry>
+</feed>
