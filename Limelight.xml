@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:limegreen="http://code.google.com/p/limegreen">
 <id>http://jameslow.com/work/limelight/</id>
 <title>Limelight AutoUpdate</title>
-<link href="https://raw.githubusercontent.com/jamesdlow/limelight/master//Limelight.xml" rel="self"/>
+<link href="https://raw.githubusercontent.com/jamesdlow/limelight/master/Limelight.xml" rel="self"/>
 <link href="http://jameslow.com/work/limelight/"/>
 <author>
 <name>Limegreen AutoUpdate Generator</name>
@@ -654,17 +654,17 @@ Improve window positioning</content>
 <content>Supports display over AirPlay to AppleTV</content>
 </entry>
 <entry>
-<id>http://jameslow.com/work/limelight/?limegreenbuild=1872</id>
+<id>https://github.com/jamesdlow/limelight/releases/tag/1.0.0</id>
 <title>Limelight 1.0.0 (build 1872)</title>
 <limegreen:build>1872</limegreen:build>
 <limegreen:version>1.0.0</limegreen:version>
 <limegreen:experimental>false</limegreen:experimental>
 <updated>2014-10-31T11:8:55+00:00</updated>
-<link href="http://jameslow.com/work/limelight/?limegreenbuild=1872"/>
-<link href="https://github.com/jamesdlow/limelight/releases/download/1.0.0//Limelight-win-1.0.0.zip" length="10427993" rel="enclosure" title="Limelight Win Zip" type="application/zip"/>
-<link href="https://github.com/jamesdlow/limelight/releases/download/1.0.0//Limelight-mac-1.0.0.zip" length="10168362" rel="enclosure" title="Limelight Mac Zip" type="application/zip"/>
-<link href="https://github.com/jamesdlow/limelight/releases/download/1.0.0//Limelight-other-1.0.0.zip" length="10146993" rel="enclosure" title="Limelight Other Zip" type="application/zip"/>
-<link href="https://github.com/jamesdlow/limelight/releases/download/1.0.0//Limelight-1.0.0.dmg" length="10212491" rel="enclosure" title="Limelight Mac Disk Image" type="application/octet-stream"/>
+<link href="https://github.com/jamesdlow/limelight/releases/tag/1.0.0"/>
+<link href="https://github.com/jamesdlow/limelight/releases/download/1.0.0/Limelight-win-1.0.0.zip" length="10427993" rel="enclosure" title="Limelight Win Zip" type="application/zip"/>
+<link href="https://github.com/jamesdlow/limelight/releases/download/1.0.0/Limelight-mac-1.0.0.zip" length="10168362" rel="enclosure" title="Limelight Mac Zip" type="application/zip"/>
+<link href="https://github.com/jamesdlow/limelight/releases/download/1.0.0/Limelight-other-1.0.0.zip" length="10146993" rel="enclosure" title="Limelight Other Zip" type="application/zip"/>
+<link href="https://github.com/jamesdlow/limelight/releases/download/1.0.0/Limelight-1.0.0.dmg" length="10212491" rel="enclosure" title="Limelight Mac Disk Image" type="application/octet-stream"/>
 <content>New version hosted on GitHub</content>
 </entry>
 </feed>
